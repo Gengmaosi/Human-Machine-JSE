@@ -4,7 +4,7 @@ This is the official implementation of ''. The abstract is ''.
 
 # Preparations
 We recommend the readers test the program in the newly-built environment based on Python 3.8, which we tested in Nov. 2023. You can run the following command in the terminal to install the needed libraries:
-    #pip install -r requirements.txt 
+###pip install -r requirements.txt 
 
 # Run the program
 'experiments_with_Marking.py' is the complete program with marking process code, which needs the port address of the experimental equipment, e.g., fNIRS. If you want to test and change the program first without experimental equipment, you can try 'experiments.py', which annotates the marking-related codes. The running commands are as follows:
