@@ -302,7 +302,7 @@ for i in range(len(prac_orders1)):
             core.quit()
         elif (key[0] == "w" and (stim1 == YR1 or stim1 == YL1)):
             ada_rts.append(rt)
-        elif (key[0] == "p" and (stim2 == BR2 or stim1 == BL2)):
+        elif (key[0] == "p" and (stim2 == BR2 or stim2 == BL2)):
             p2_rts.append(rt)
 
         # text1.draw()
