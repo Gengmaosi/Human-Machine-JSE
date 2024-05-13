@@ -3,7 +3,7 @@
 This is the official implementation of ''. The abstract is ''.
 
 # Preparations
-We recommend the readers test the program in the newly-built environment based on Python 3.8, which we tested in Nov. 2023. You can run the following command in the terminal to install the needed libraries:
+We recommend the readers test the program in the newly-built environment based on Python 3.8. You can run the following command in the terminal to install the needed libraries:
 ```
 pip install -r requirements.txt
 ```
@@ -17,9 +17,6 @@ or
 ```
 python experiments.py
 ```
-
-# Note for the reliable libraries
-In the initial version, our experiment was built and tested on Python=3.7, psychopy==2022.1.4, fitter==1.5.2, pandas==1.1.3, and numpy==1.19.5. However, during recent testing, we found that there were errors when installing psychopy=2022.1.4 library in Python 3.7 environment, possibly due to version update iterations. Thus, we have provided the library version that can run smoothly in the Python 3.8 environment in requirements.txt for your reference (until 2023/11). In summary, please ensure that the libraries in right versions such as psycopy, filter, pandas, and numpy are installed correctly before running the program.
 
 # Acknowledgements
 Sincerely thanks for PA_exam repository (https://github.com/AddiH/PA_exam) of the stimuli and dialog window reference.  
