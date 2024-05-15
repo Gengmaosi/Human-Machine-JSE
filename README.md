@@ -2,6 +2,7 @@
 # Leveraging artificial intelligence to natural intelligence
 This is the official implementation of the paper “Leveraging artificial intelligence to natural intelligence”.
 We design an adaptive-learning nonverbal Turing test to imitate the certainty and variability of human behaviours simultaneously in a stepwise machine-learning manner, and monitor inter-brain neural synchrony changes with functional near-infrared spectroscopy (fNIRS).
+
 The code for the experiment was in the folder “Adaptive-learning nonverbal Turing test”, and the processed data used in the experiments to support the findings was in the folder “Data analysis”. Note that P1 and P2 was swapped in the manuscript for better readability purposes.
 
 # Preparations
