@@ -3,7 +3,7 @@
 This is the official implementation of the paper “Leveraging artificial intelligence to natural intelligence”.
 We design an adaptive-learning nonverbal Turing test to imitate the certainty and variability of human behaviours simultaneously in a stepwise machine-learning manner, and monitor inter-brain neural synchrony changes with functional near-infrared spectroscopy (fNIRS).
 
-The code for the experiment was in the folder “Adaptive-learning nonverbal Turing test”, and the processed data used in the experiments to support the findings was in the folder “Data analysis”. Note that P1 and P2 was swapped in the manuscript for better readability purposes.
+The code for the experiment was in the folder “Adaptive-learning nonverbal Turing test”, and the processed data used in the experiments to support the findings was in the folder “Data analysis”. Note that different from that in the raw data and open-source code, the name of P1 and P2 was swapped in the manuscript and report summary for better readability purposes. Besides, the prompts and other information are displayed in Chinese during the formal experiments.
 
 # Preparations
 We recommend the readers test the program in the newly-built environment based on Python 3.8. You can run the following command in the terminal to install the needed libraries:
