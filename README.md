@@ -22,4 +22,4 @@ python experiments.py
 ```
 
 # Acknowledgements
-Sincerely thanks for PA_exam repository (https://github.com/AddiH/PA_exam) of the stimuli and dialog window reference.  
+Sincerely thanks for the PA_exam repository (https://github.com/AddiH/PA_exam) of the stimuli and dialog window reference.  
